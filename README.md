@@ -1,5 +1,5 @@
 ## Hello 👋
-## My name is Karl Erich Remmelgas
+### My name is Karl Erich Remmelgas
 
 - 💻 I’m currently studing computer engineering
 <details>
